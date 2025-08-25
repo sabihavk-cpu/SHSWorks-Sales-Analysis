@@ -1,0 +1,23 @@
+## This is the link where anyone can see the whole document of my Data Analysis Project. I did it only on the basis of Google Data Analytics Certification from Coursera. Please suggest me if this project require improvement.
+LinK for R Markdown Document:---  https://rpubs.com/sabiha_hasan/1338409
+Link for processing file:         SHSWorks-Sales-Vs-Revenue-Document.Rmd
+                                                                                                                     
+Link for output file:             SHSWorks-Sales-Vs-Revenue-Document.knit.md
+
+
+SHSWorks Sales and Revenue Analysis
+This project analyzes synthetic sales data for SHSWorks — The Art Gallery, using R and R Markdown.
+It demonstrates business analytics techniques such as data wrangling, visualization, and insight generation on sales performance for FY 2024–25.
+
+Project Overview
+Objective: Explore sales and revenue trends, identify top-performing platforms, categories, and product types.
+Tools Used: R, R Markdown, dplyr, ggplot2, lubridate, tidyverse.
+Dataset: Synthetic dataset simulating SHSWorks’ online sales (not actual business data).
+
+Key Insights
+Monthly revenue shows fluctuating growth, with peaks during Q3 (Nov–Jan).
+B2B platform contributes the highest share of revenue.
+Nature and Abstract categories dominate sales performance.
+Original artworks generate more revenue compared to reprints.
+
+
